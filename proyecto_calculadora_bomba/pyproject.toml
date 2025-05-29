@@ -6,8 +6,8 @@ build-backend = "hatchling.build"
 name = "calculadora_bombeo"
 version = "0.0.1"
 authors = [
-  {name="Eimar Garcia",email="eimarg522@gmail.com"}
-  {name="Bryan Cadena",email="___@gmail.com"}
+  {name="Eimar Garcia",email="eimarg522@gmail.com"},
+  {name="Bryan Cadena",email="bcadena32@gmail.com"}
 ]
 description = "Este programa brinda los calculos necesario s para determinar una bomba que sea capaz de suplir las necesidades requeridas por el usuario"
 readme = "README.md"
@@ -18,7 +18,3 @@ classifiers = [
 ]
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
-
-[project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
