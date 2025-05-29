@@ -1,6 +1,6 @@
 # Calculadora de bombeo
 
-## Funcionabilidades
+## Funcionalidades
 - Conversión automática de presión (PSI a m).
 - Base de datos con modelos reales (Pedrollo, Barnes, IHM).
 - Recomendación de tipo de bomba.
